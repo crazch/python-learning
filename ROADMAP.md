@@ -5,7 +5,8 @@
 - [x] Complete `hello_world.py`
 - [x] Build `calculator.py`
 - [x] Create `random_number_guess.py`
-- [ ] Build `rock_paper_game.py`
+- [x] Build `rock_paper_game.py`
+- [ ] Build `todo_list.py`
 
 ## Phase 2: Automation  
 - [ ] File organizer script  

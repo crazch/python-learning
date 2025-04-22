@@ -8,10 +8,10 @@
 | `1_mini_projects/` | Functional tools (e.g., `calculator.py`) |  
 
 ## 🔧 Current Progress  
-- **`hello_world.py`** *(Planned: Basic print statements, user input)*  
-- **`calculator.py`** *(Planned: CLI-based arithmetic operations)*  
+- **`todo_list.py`**
+*(Planned: Basic Function, user input)*
 
 ## 🎯 Next Steps  
-- Create new project (`random_number_guess.py`)
+- Create new project (`todo_list.py`)
 
 [View full roadmap →](/ROADMAP.md)  
