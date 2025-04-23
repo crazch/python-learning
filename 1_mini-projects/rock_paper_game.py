@@ -1,3 +1,11 @@
+"""
+Rock-Paper-Scissors (CLI)
+- Inputs: 'r', 'p', 's'.
+- AI: Random choice.
+- Output: Win/loss/tie.
+- Usage: Run `rockpaper.py`
+"""
+
 import random
 
 def play():

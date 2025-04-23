@@ -1,5 +1,7 @@
-# TODO: Build CLI calculator  
-# Features: Add, subtract, multiply, divide  
+# calculator.py  
+# A CLI tool for basic arithmetic (add, subtract, multiply, divide).  
+# Usage: Run `python calculator.py` and follow prompts.
+
 def add(a, b):
   return a + b
   
